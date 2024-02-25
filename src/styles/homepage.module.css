@@ -1,0 +1,22 @@
+.homeMain{
+    height: 100%;
+    width: 100vw;
+    position: absolute;
+
+}
+.bg{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+
+.head{
+    position: relative;
+    top: 30%;
+    color:white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
